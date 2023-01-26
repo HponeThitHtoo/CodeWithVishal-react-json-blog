@@ -1,0 +1,3 @@
+cloudinary  (see account info in MyDevelopmentAccount.txt file)
+========================================================
+upload_preset name >> gb6k9oyz
